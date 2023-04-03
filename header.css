@@ -1,0 +1,147 @@
+@font-face {
+    font-family: "adidas";
+    src: url(./fonts/ITCAvantGardeStd-BoldObl.otf);
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.hsec1 {
+    background-color: black;
+    height: 40px;
+
+}
+
+.hsec2 {
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    
+
+}
+.hsec4{
+    background-color: black;
+    height: 60px;
+    
+}
+.hsec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    display: inline-block;
+    top: 50px;
+    left: 900px;
+    right: 2px;
+    gap: 10px;
+    
+
+}
+
+.hspan1 {
+    top: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    font-family: "adidas";
+    font-size: 13px;
+    
+}
+.hspan2{
+    
+    gap: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+
+}
+.hspan3{
+    display: flex;
+    justify-content: right;
+    
+    gap: 30px;
+}
+.hspan2 a{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hspan3 a{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    gap: 10px;
+}
+.hspan4{
+    top: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    font-family: "adidas";
+    font-size: 13px;
+
+}
+
+.himg{
+    width: 500px;
+}
+
+.himg1{
+    height: 100px;
+    width: 100px;
+    flex: 1;
+}
+
+.hsearchbutton{
+    border: none;
+    background-color: #ECEFF1;
+    display: flex;
+    position: absolute;
+    right: 240px;
+    top: 30px;
+    height: 25px;
+
+}
+.magnifying-glass{
+    position: absolute;
+    top: 35px;
+    right: 245px;
+
+}
+.huser{
+    position: absolute;
+    top: 35px;
+    right: 200px;
+}
+.hheart{
+    position: absolute;
+    top: 35px;
+    right: 160px;
+}
+
+.hbasket{
+    position: absolute;
+    top: 35px;
+    right: 120px;
+}
+.hanimation{
+    height: 7px;
+    width: 7px;
+    border-radius: 50%;
+    background-color: yellow;
+    display: flex;
+    position: absolute;
+    right: 192px;
+    top: 31px;
+
+}
+
+
+
+

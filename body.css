@@ -1,0 +1,218 @@
+
+.bodysec{
+    background-image: url(/img/hp-running-ss23-ultraboost-light-global-ea-educate-masthead-d_tcm221-1009911.png);
+   height:50vw;
+   width: 100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment:local; 
+   position: relative;
+    
+}
+.bodysec1{
+    position: absolute;
+    top: 170px;
+    margin: auto 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bolder ;
+    font-size: 40px;
+    
+}
+.bodysecspan3{
+    font-size: 20px;
+}
+.bodysec2{
+    position: absolute;
+    margin: auto 70px;
+    top: 340px;
+    
+
+}
+.manbutton{
+    color: white;
+    background-color: black;
+    height: 60px;
+    width: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    border: none;
+
+}
+.womenbutton{
+    color: white;
+    background-color: black;
+    height: 60px;
+    width: 160px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 90px;
+    border: none;
+
+
+}
+
+.bodysec3{
+    margin: 100px 100px;
+    width: auto;
+    height: 400px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+    
+}
+
+.item1p{
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+   
+}
+.item2p{
+    display: flex;
+    justify-content: center;
+   
+}
+.item3p{
+    display: flex;
+    justify-content: center;
+   
+}
+.item4p{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.navspans{
+    margin: 100px 100px;
+    width: auto;
+    color: black;
+    font-family: "adidas";
+    display: flex;
+    justify-content:start;
+    gap: 30px;
+    font-size: 25px;
+    position: relative;
+}
+.navspans a{
+    color: black;
+    position: absolute;
+    right: 60px;
+
+}
+.aleft{
+    position: absolute;
+    top: 5px;
+    right: 30px;
+}
+.aright{
+    position: absolute;
+    top: 5px;
+    right: 1px;
+}
+.bodysec4parent{
+    margin: 100px 50px;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-family: "adidas";
+
+}
+.bodysec5parent{
+    margin:  0px 50px;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-family: "adidas";
+}
+.bodysec6parent{    
+
+    margin:  0px 50px;
+    width: auto;
+    height: 400px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-family: "adidas";
+
+    
+}
+.bodysec6{
+    margin: 0px 400px;
+    width: auto;
+    font-family: "adidas";
+    font-size: 20px;
+}
+
+.bodysec5parent a{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+}
+.body5span1{
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.sec4img1{
+    height: 278px;
+    width: 278px;
+    position: relative;
+    
+}
+
+.sec4img2{
+    height: 278px;
+    width: 278px; 
+}
+.sec4img3{
+    height: 278px;
+    width: 278px; 
+}
+.sec4img4{
+    height: 278px;
+    width: 278px;  
+}
+.sec5img1{
+    height: 278px;
+    width: 278px; 
+}
+.sec5img2{
+    height: 278px;
+    width: 278px; 
+}
+.sec5img3{
+    height: 278px;
+    width: 278px; 
+}
+.sec5img4{
+
+    height: 278px;
+    width: 278px; 
+}
+.sec6img1{
+    width: 278px;
+    height: 278px;
+  
+}
+.sec6img2{
+    width: 278px;
+    height: 278px;
+}
+.sec6img3{
+    width: 278px;
+    height: 278px;
+}
+.sec6img4{
+    width: 278px;
+    height: 278px;
+}
+
